@@ -290,7 +290,7 @@ paths:
       parameters:
         - name: userId
           in: path
-          description: Unique ID of the user
+          description: Unique ID of the user'
           required: true
           schema:
             type: string

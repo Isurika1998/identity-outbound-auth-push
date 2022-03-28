@@ -46,7 +46,7 @@ public class PushAuthContextCache extends
     }
 
     /**
-     * Store authentication context to the session data store
+     * Store authentication context to the session data store.
      *
      * @param id SessionDataKey for the session
      * @param entry PushAuthContextCacheEntry containing push authentication context
@@ -57,7 +57,7 @@ public class PushAuthContextCache extends
     }
 
     /**
-     * Gets the push authentication context from SessionDataStore by the SessionDataKey
+     * Gets the push authentication context from SessionDataStore by the SessionDataKey.
      *
      * @param id SessionDataKey used as the ID
      * @return Push authentication context
@@ -68,7 +68,7 @@ public class PushAuthContextCache extends
     }
 
     /**
-     * Remove cached authentication context by SessionDataKey
+     * Remove cached authentication context by SessionDataKey.
      *
      * @param id SessionDataKey for the session
      */
@@ -78,7 +78,7 @@ public class PushAuthContextCache extends
     }
 
     /**
-     * Clear stored cache under the SessionDataKey
+     * Clear stored cache under the SessionDataKey.
      *
      * @param key PushAuthenticationContextKey with SessionDataKey
      */
@@ -89,7 +89,7 @@ public class PushAuthContextCache extends
     }
 
     /**
-     * Add the authentication context to cache by the SessionDataKey
+     * Add the authentication context to cache by the SessionDataKey.
      *
      * @param key PushAuthenticationContextKey with SessionDataKey
      * @param entry PushAuthenticationCacheEntry containing authentication context
@@ -103,7 +103,7 @@ public class PushAuthContextCache extends
     }
 
     /**
-     * Gets the push authentication context from cache by the SessionDataKey
+     * Gets the push authentication context from cache by the SessionDataKey.
      *
      * @param key PushAuthenticationContextKey with SessionDataKey
      * @return PushAuthenticationCacheEntry containing authentication context

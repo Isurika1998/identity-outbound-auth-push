@@ -19,7 +19,6 @@
 
 <%@ taglib prefix = "s" uri = "http://java.sun.com/jsp/jstl/core" %>
 <%@ page language = "java" contentType = "text/html; charset=UTF-8" pageEncoding = "UTF-8" %>
-<%@ page import="org.wso2.carbon.identity.application.authenticator.push.PushAuthenticatorConstants" %>
 <%@ page import="java.nio.charset.StandardCharsets" %>
 <jsp:directive.include file="includes/init-url.jsp"/>
 

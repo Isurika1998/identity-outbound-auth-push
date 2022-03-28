@@ -9,7 +9,7 @@ Repository containing the source of WSO2 IS Push Authentication SDK.
 
 ---
 
-## Table of Contents
+## Table of Contents t                                                                            
 
 - [Introduction](#introduction)
 - [Install](#install)
